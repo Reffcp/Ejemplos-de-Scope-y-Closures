@@ -1,0 +1,11 @@
+{
+  "name": "curso-scopes-closures",
+  "version": "1.0.0",
+  "description": "Curso de scopes y closures con Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reffcp",
+  "license": "ISC"
+}
